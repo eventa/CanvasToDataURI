@@ -1,4 +1,4 @@
 CanvasToDataURI
 ===============
 
-Export script for translating images into DataURI format
+Export script for translating images into DataURI format... dropped...
